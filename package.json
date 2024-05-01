@@ -1,0 +1,24 @@
+{
+  "name": "ajaysingh_js3_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "http-server --port 9000",
+    "test": "node weather-app/weather-app-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khardiashab/AjaySingh_JS3_Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khardiashab/AjaySingh_JS3_Lab/issues"
+  },
+  "homepage": "https://github.com/khardiashab/AjaySingh_JS3_Lab#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
